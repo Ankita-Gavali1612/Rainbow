@@ -1,5 +1,7 @@
 # Rainbow
 
+colors are:
+
 red
 green
 yello
